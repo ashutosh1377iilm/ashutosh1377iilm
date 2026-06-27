@@ -1,68 +1,184 @@
-<body>
-  <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<br>
 <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.dev/api/202740603790819328?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
-  </a>
-    <br>
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
-  
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ashutosh Kumar
+
+### 💻 B.Tech CSE Student • AI Developer • Competitive Programmer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer;Competitive+Programmer;Building+Cool+Projects;Learning+DSA+Everyday;Future+Software+Engineer" />
+
+<br>
+
+<a href="https://github.com/ashutosh1377iilm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
 </div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
-<div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> Miella Selene</li>
-<li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
-<b>Hobbys:</b> Dev Ops, Writer, Sysadmin
-</li>
-<br><br><br><br>
-</div>
-<div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
+
+---
+
+# 💫 About Me
+
+```cpp
+class Ashutosh {
+
+public:
+
+string role = "B.Tech CSE Student";
+
+string location = "Delhi, India";
+
+vector<string> interests = {
+
+"Artificial Intelligence",
+
+"Competitive Programming",
+
+"Open Source",
+
+"Backend Development"
+
+};
+
+string current_focus = "Data Structures & Algorithms";
+
+string goal = "Software Engineer";
+
+};
+```
+
+---
+
+# 🚀 Current Projects
+
+| Project | Description |
+|---------|-------------|
+| ♻️ EcoSort | AI-powered Waste Classification System |
+| 🎵 Mood Music AI | Emotion Detection + Music Recommendation |
+| 📚 LeetCode Journey | Solving DSA Problems Daily |
+| 🤖 AI Experiments | Machine Learning & Computer Vision |
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
 <p>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  </div>
-</div>
-<div>
-  <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-There are many more things, but this site doesn't have a Linux badge, 
-  so this will do for the meantime.
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
-<br>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,tensorflow,opencv" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mysql" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutosh1377iilm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh1377iilm&theme=tokyonight&hide_border=true"/>
+
 </div>
-<hr>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1377iilm&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+# 🔥 Coding Profiles
+
+| Platform | Link |
+|----------|------|
+| 💻 GitHub | https://github.com/ashutosh1377iilm |
+| 🧠 LeetCode | https://leetcode.com/YOUR_USERNAME |
+| ⚡ HackerRank | https://hackerrank.com/YOUR_USERNAME |
+
+---
+
+# 🏆 Achievements
+
+🏅 Google Generative AI Certification
+
+🥈 AI Project Competition
+
+🥉 Speech Competition
+
+⭐ Open Source Enthusiast
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Data Structures & Algorithms
+
+✔ System Design
+
+✔ Machine Learning
+
+✔ Backend Development
+
+✔ Computer Vision
+
+✔ Open Source
+```
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh1377iilm&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+# 💬 Dev Quote
+
+> "Consistency beats motivation."
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashutosh1377iilm&style=for-the-badge&color=blue">
+
+### ⭐ Thanks for visiting my profile!
+
 </div>
-    </center>
-</body>
