@@ -1,184 +1,50 @@
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ashutosh Kumar
-
-### 💻 B.Tech CSE Student • AI Developer • Competitive Programmer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer;Competitive+Programmer;Building+Cool+Projects;Learning+DSA+Everyday;Future+Software+Engineer" />
-
-<br>
-
-<a href="https://github.com/ashutosh1377iilm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
-</a>
-
-</div>
-
----
-
-# 💫 About Me
-
-```cpp
-class Ashutosh {
-
-public:
-
-string role = "B.Tech CSE Student";
-
-string location = "Delhi, India";
-
-vector<string> interests = {
-
-"Artificial Intelligence",
-
-"Competitive Programming",
-
-"Open Source",
-
-"Backend Development"
-
-};
-
-string current_focus = "Data Structures & Algorithms";
-
-string goal = "Software Engineer";
-
-};
-```
-
----
-
-# 🚀 Current Projects
-
-| Project | Description |
-|---------|-------------|
-| ♻️ EcoSort | AI-powered Waste Classification System |
-| 🎵 Mood Music AI | Emotion Detection + Music Recommendation |
-| 📚 LeetCode Journey | Solving DSA Problems Daily |
-| 🤖 AI Experiments | Machine Learning & Computer Vision |
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,tensorflow,opencv" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mysql" />
-</p>
-
----
-
-# 📈 GitHub Stats
+# 🌸 Kon'nichiwa, World! 🗡️
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutosh1377iilm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh1377iilm&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://media.giphy.com/media/13GVXmASm9D9Hq/giphy.gif" alt="Anime Coding GIF" width="600"/>
 </div>
 
-<br>
+### 📜 About Me
+I'm a computer science student navigating the digital world, weaving code, and studying the art of cybersecurity. When I'm not training models or configuring Linux environments, you can find me analyzing human psychology through manga and cinema, or leveling up my anime-style drawing skills. 🎨✨
 
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1377iilm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Coding Profiles
-
-| Platform | Link |
-|----------|------|
-| 💻 GitHub | https://github.com/ashutosh1377iilm |
-| 🧠 LeetCode | https://leetcode.com/YOUR_USERNAME |
-| ⚡ HackerRank | https://hackerrank.com/YOUR_USERNAME |
+- 🛡️ **Long-term Mission:** Mastering **Cybersecurity** to protect the digital realm.
+- 🧠 **Arc 1 (AI & ML):** Training YOLOv8 for object detection and fine-tuning Longformer (LED) models for document summarization.
+- ⚙️ **Arc 2 (Hardware/IoT):** Tinkering with Arduino and embedded systems to bridge the gap between software and the physical world.
+- 🏆 **Guild Achievements:** Secured 3rd Rank in a competitive C Programming tournament.
 
 ---
 
-# 🏆 Achievements
+### 🧰 My Grimoire (Tech Stack)
 
-🏅 Google Generative AI Certification
+**Languages:**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-🥈 AI Project Competition
+**Frameworks & AI:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
-🥉 Speech Competition
-
-⭐ Open Source Enthusiast
-
----
-
-# 📚 Currently Learning
-
-```text
-✔ Data Structures & Algorithms
-
-✔ System Design
-
-✔ Machine Learning
-
-✔ Backend Development
-
-✔ Computer Vision
-
-✔ Open Source
-```
+**Tools, Environments & OS:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-38A2A5?style=for-the-badge&logo=linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-# 📊 Activity Graph
+### ⚔️ Epic Battles (Featured Projects)
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh1377iilm&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
-# 🐍 Contributions
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
-</p>
+* 🌿 **EcoSort:** A Smart Waste Audit System using YOLOv8 to detect and categorize waste objects in real-time.
+* 📚 **PDF Summarizer:** An application leveraging the Longformer Encoder-Decoder (LED) model to digest and generate structured summaries for massive documents.
+* ☀️ **Solar-Powered Smart Irrigation:** An IoT build utilizing Arduino Nano, relays, and soil moisture sensors to automate environmental monitoring.
 
 ---
 
-# 💬 Dev Quote
+### 📬 Let's Connect!
 
-> "Consistency beats motivation."
+*"A lesson without pain is meaningless. That's because no one can gain without sacrificing something."* — Fullmetal Alchemist
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ashutosh1377iilm&style=for-the-badge&color=blue">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
