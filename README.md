@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:   
 I enjoy building projects that solve real-world problems and continuously exploring new technologies. My interests include Python development, AI-powered applications, Computer Vision, and Data Structures & Algorithms.
 
 
